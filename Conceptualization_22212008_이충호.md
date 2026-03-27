@@ -23,13 +23,13 @@
 
 ## = Contents =
 
-1. [Business Purpose]
-2. [System Context Diagram]
-3. [Use Case List]
-4. [Concept of Operation]
-5. [Problem Statement]
-6. [Glossary]
-7. [References]
+1. Business Purpose
+2. System Context Diagram
+3. Use Case List
+4. Concept of Operation
+5. Problem Statement
+6. Glossary
+7. References
 
 ---
 
