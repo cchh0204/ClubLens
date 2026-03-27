@@ -64,15 +64,15 @@
 - **Applicant (지원자)** : 가두모집 시 임원이 대신 정보를 등록하며, 시스템에 직접 접근하지 않는다.
 
 **Use Cases:**
-- RegisterApplicant
-- ProcessApplication
-- SendNotification
-- RegisterMember
-- ManageMember
-- ManageBalance
-- ManageOutingSchedule
-- ManageOutingGroup
-- ManageSystem
+- RegisterApplicant : 가두모집 시 지원자 정보 등록
+- ProcessApplication : 합격/불합격 처리
+- SendNotification : 합격/불합격 문자 발송
+- RegisterMember : 정식 부원 등록
+- ManageMember : 부원 정보 관리
+- ManageBalance : 회비 납부 현황 관리
+- ManageOutingSchedule : 출사 일정 관리
+- ManageOutingGroup : 출사 조 편성
+- ManageSystem : 시스템 보안 및 백업 관리
 
 ---
 
