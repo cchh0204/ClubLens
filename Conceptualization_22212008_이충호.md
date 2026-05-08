@@ -16,7 +16,7 @@
 | Revision date | Version # | Description | Author |
 |---|---|---|---|
 | 2026.03.27 | 1.0.0 | First Draft | 이충호 |
-| | | | |
+| 2026.05.08| 1.0.1 |시스템 경계 재설정 및 직접 상호작용하지 않는 액터 (부원 및 지원자) 제외 | 이충호 |
 | | | | |
 
 ---
@@ -57,7 +57,7 @@
 
 ## 2. System Context Diagram
 
-![System Context Diagram](clublens_system_context_diagram_v2.svg)
+![System Context Diagram](clublens_system_context_diagram_v3.svg)
 
 **Actors:**
 - **Administrator (임원)** : 시스템의 주 사용자. 부원 관리, 출사 관리, 회비 관리 등 모든 기능을 사용한다.
